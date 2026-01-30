@@ -1,0 +1,5 @@
+a=int(input("enter number"))
+b=int(input("enter number"))
+print("addition:",a+b)
+print("sub:",a-b)
+print("mul:",a*b)
